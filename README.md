@@ -3,6 +3,12 @@
 ## 📌 Project Overview
 Architected a relational MySQL database (`zomato_main`) and engineered a bulk data pipeline to ingest 9,500+ records, resolving complex schema validation errors using SQL scripts. Extracted actionable insights from the dataset, identifying price sensitivity trends and location-based dining preferences to support data-driven decision-making.
 
+## 🤝 Team & My Contributions
+This project was completed collaboratively as part of a 7-person team during my ExcelR program. While the final dashboards represent our group's combined efforts, my specific hands-on contributions included:
+* Engineering the SQL queries to analyze restaurant distribution, average pricing buckets, and year-over-year opening trends.
+* Assisting with the data profiling and handling formatting inconsistencies in Excel prior to database migration.
+* Collaborating on the design and visualization choices for the Power BI and Tableau dashboards.
+
 ## 🛠️ Tech Stack
 * **Database:** MySQL
 * **Data Cleaning & Profiling:** Advanced Excel
